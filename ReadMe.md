@@ -95,3 +95,5 @@ deactivate
 ### Hinweise
 - Bei Problemen mit den Abhängigkeiten überprüfen Sie die Python-Version und stellen Sie sicher, dass alle Pakete in der `requirements.txt` korrekt installiert wurden.
 - Verwenden Sie für eine bessere Entwicklungsumgebung VS Code mit den entsprechenden Erweiterungen.
+
+(credits: https://github.com/qmunitytech/Tutorials/blob/main/intermediate/The%20BB84%20Quantum%20Cryptography%20algorithm.ipynb)
