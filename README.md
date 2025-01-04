@@ -1,6 +1,6 @@
-# Anleitung zur Einrichtung einer Virtuellen Umgebung für BB84-Simulation
+# Anleitung zur Einrichtung einer Virtuellen Umgebung für E91-Simulation
 
-Diese Anleitung beschreibt, wie eine virtuelle Python-Umgebung eingerichtet wird, die für die BB84-Simulation mit Jupyter Notebook verwendet werden kann. Alternativ wird auch erklärt, wie Sie die Umgebung in Visual Studio Code nutzen können.
+Diese Anleitung beschreibt, wie eine virtuelle Python-Umgebung eingerichtet wird.
 
 ## Voraussetzungen
 - Python 3.9 oder höher ist installiert.
@@ -56,7 +56,7 @@ Diese Anleitung beschreibt, wie eine virtuelle Python-Umgebung eingerichtet wird
    jupyter notebook
    ```
 
-3. Öffnen Sie die Datei `bb84_simulation.ipynb` im Jupyter Notebook.
+3. Öffnen Sie die Datei `e91/e91_simulation.ipynb` im Jupyter Notebook.
 
 ---
 
@@ -76,7 +76,7 @@ Diese Anleitung beschreibt, wie eine virtuelle Python-Umgebung eingerichtet wird
      pip install -r requirements.txt
      ```
 
-5. Öffnen Sie die Datei `bb84_simulation.ipynb`:
+5. Öffnen Sie die Datei `e91/e91_simulation.ipynb`:
    - Installieren Sie die Erweiterung **"Jupyter"**, falls noch nicht geschehen.
    - Öffnen Sie die Notebook-Datei und stellen Sie sicher, dass der Kernel `quantum-venv` ausgewählt ist.
 
@@ -96,4 +96,5 @@ deactivate
 - Bei Problemen mit den Abhängigkeiten überprüfen Sie die Python-Version und stellen Sie sicher, dass alle Pakete in der `requirements.txt` korrekt installiert wurden.
 - Verwenden Sie für eine bessere Entwicklungsumgebung VS Code mit den entsprechenden Erweiterungen.
 
-(credits: https://github.com/qmunitytech/Tutorials/blob/main/intermediate/The%20BB84%20Quantum%20Cryptography%20algorithm.ipynb)
+
+[BB84 credits](https://github.com/qmunitytech/Tutorials/blob/main/intermediate/The%20BB84%20Quantum%20Cryptography%20algorithm.ipynb)
