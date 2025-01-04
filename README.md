@@ -97,4 +97,4 @@ deactivate
 - Verwenden Sie für eine bessere Entwicklungsumgebung VS Code mit den entsprechenden Erweiterungen.
 
 
-[BB84 credits](https://github.com/qmunitytech/Tutorials/blob/main/intermediate/The%20BB84%20Quantum%20Cryptography%20algorithm.ipynb)
+[Credits to qbit12](https://github.com/qmunitytech/Tutorials/blob/main/intermediate/The%20BB84%20Quantum%20Cryptography%20algorithm.ipynb)
