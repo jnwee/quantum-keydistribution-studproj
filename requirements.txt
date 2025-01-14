@@ -3,3 +3,4 @@ qiskit_aer
 matplotlib
 numpy
 pylatexenc
+pandas
