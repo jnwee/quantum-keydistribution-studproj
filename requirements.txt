@@ -4,3 +4,4 @@ matplotlib
 numpy
 pylatexenc
 pandas
+rich
